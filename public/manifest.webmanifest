@@ -1,0 +1,13 @@
+{
+  "name": "Percept — Everyone sees it differently",
+  "short_name": "Percept",
+  "description": "Anonymous perception and AI-powered perspective mapping.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071612",
+  "theme_color": "#35C98A",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/percept-logo.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
